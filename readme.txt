@@ -3,8 +3,8 @@ Contributors: sxss
 Donate link: http://sxss.nw.am
 Tags: shortcode, shortcode-ui, content, snippets
 Requires at least: 3.0
-Tested up to: 4.0
-Stable tag: 0.1
+Tested up to: 4.1.1
+Stable tag: 0.1.1
 
 Creating your own shortcodes was never so easy!
 
@@ -33,6 +33,9 @@ All contact details will be published at [sxss.nw.am](http://sxss.nw.am "sxss.nw
 3. Add a shortcode with a click
 
 == Changelog ==
+
+= 0.1.1 =
+Fixed a compatibility problem with Contact Form 7
 
 = 0.1 =
 First Upload

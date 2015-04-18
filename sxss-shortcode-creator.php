@@ -4,7 +4,7 @@ Plugin Name: sxss Shortcode Creator
 Plugin URI: http://sxss.nw.am
 Description: Create reusable content and use a shortcode to insert it in posts, pages and widgets
 Author: sxss
-Version: 0.1
+Version: 0.1.1
 Author URI: http://sxss.nw.am
 */
 
@@ -37,7 +37,6 @@ function sxss_sc_post_type() {
 		'show_in_menu'        => true,
 		'show_in_nav_menus'   => true,
 		'show_in_admin_bar'   => true,
-		'menu_position'       => 25,
 		'menu_icon'           => false,
 		'can_export'          => true,
 		'has_archive'         => false,
